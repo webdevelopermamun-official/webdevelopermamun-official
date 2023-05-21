@@ -4,17 +4,19 @@
 <img src="https://www.webdevelopermamun.me/wp-content/uploads/2023/05/web-developer-mamun-best-web-developer-in-bangladesh-website-solution-wordpress-developer-top-rated-freelancer-1.jpg" align="left" style="width: 100%" />  
   
 </br>
+</br>
+</br>
+I am Mamun Mridha a professional web developer I have worked in various marketplaces and social media as front end and back end developer for last 4 years. Also, I am working as a top rated freelancer in one of the most popular marketplaces, upwork. Also I am a professional wordpress developer, I have worked on more than 300+ projects using wordpress which samples are in my portfolio.
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+Custom Code Expert
+------------------
+✔️ HTML
+✔️ CSS 3
+✔️ Bootstrap 4/5
+✔️ JavaScript
+✔️ jQuery
+✔️ PHP
+✔️ WordPress Development
   
 
 <br/>  

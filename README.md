@@ -18,12 +18,6 @@ Custom Code Expert
 ✔️ PHP</br>
 ✔️ WordPress Development
 
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=webdevelopermamun-official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 ## My Skill Set  
@@ -103,4 +97,8 @@ Custom Code Expert
 <img src="https://komarev.com/ghpvc/?username=webdevelopermamun-official&&style=flat-square" align="center" />
 </div>  
   
+  <br/>  
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=webdevelopermamun-official&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 

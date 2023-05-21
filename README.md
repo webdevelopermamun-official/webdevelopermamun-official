@@ -16,6 +16,7 @@ Custom Code Expert
 ✔️ JavaScript</br>
 ✔️ jQuery</br>
 ✔️ PHP</br>
+✔️ MySQL</br>
 ✔️ WordPress Development
 
 <br/>  

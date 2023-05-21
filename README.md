@@ -10,14 +10,14 @@ I am Mamun Mridha a professional web developer I have worked in various marketpl
 
 Custom Code Expert
 ------------------
-✔️ HTML
-✔️ CSS 3
-✔️ Bootstrap 4/5
-✔️ JavaScript
-✔️ jQuery
-✔️ PHP
+✔️ HTML</br>
+✔️ CSS 3</br>
+✔️ Bootstrap 4/5</br>
+✔️ JavaScript</br>
+✔️ jQuery</br>
+✔️ PHP</br>
 ✔️ WordPress Development
-  
+
 
 <br/>  
 
